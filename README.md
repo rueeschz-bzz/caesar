@@ -2,6 +2,8 @@
 
 This program encrypts or decrypts text using the Caesar Cipher, shifting letters by a specified value.
 
+vigenere.py uses the vigenere algorithm to decrypt messages
+
 ## Usage
 
 1. **Input Text**: Enter the text to be processed.
